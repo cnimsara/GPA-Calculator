@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1723406956 source:d:\pdasa\pdsafinal\main.cpp
+	<iostream>
+	<unordered_map>
+	<string>
+	<stack>
+
